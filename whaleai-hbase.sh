@@ -99,7 +99,7 @@ echo "hbase-$HBASE_VERSION　卸载完成
 help()
 {
 cat << EOF
-已支持版本　hbase-2
+已支持版本　hbase-1.3.1
 This script installs hbase  with basic data, log, and pid directories.
 
 USAGE:  whaleai-hbase.sh [options]
