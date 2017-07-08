@@ -1,6 +1,6 @@
 # whaleai-hbase
 
-## 提供Hbase简化的部署方案　WhaleAI 专注人工智能/大数据
+## 提供Hbase自动化部署方案，WhaleAI专注人工智能/大数据
 
 >已支持版本 hbase-1.3.1
 
